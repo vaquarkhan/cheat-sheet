@@ -1,3 +1,5 @@
+https://dzone.com/refcardz/hbase?chapter=1
+
 # HBase
 - distributed, column-oriented persistent multidimensional sorted map
 - storing column-family into memory/disc
