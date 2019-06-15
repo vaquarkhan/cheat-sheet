@@ -293,19 +293,20 @@ connecting Phoenix using following commands on Hadoop node
 •	./sqlline-thin.py <ServerName>:<PORT>
 
 -------------------------------------------------------
-http://hadooptutorial.info/apache-phoenix-hbase-an-sql-layer-on-hbase/
+- http://hadooptutorial.info/apache-phoenix-hbase-an-sql-layer-on-hbase/
 
-https://www.youtube.com/watch?v=_HLoH_PgrLk
-		
+- https://www.youtube.com/watch?v=_HLoH_PgrLk
 
-https://stackoverflow.com/questions/46331734/how-to-mask-columns-using-spark-2
+- https://stackoverflow.com/questions/46331734/how-to-mask-columns-using-spark-2
 
-https://www.youtube.com/watch?v=_HLoH_PgrLk
+- https://www.youtube.com/watch?v=_HLoH_PgrLk
+
+- https://www.slideshare.net/HadoopSummit/hbase-in-practice-74890983
 
 
-https://github.com/tspannhw/phoenix
+- https://github.com/tspannhw/phoenix
 
-https://community.hortonworks.com/articles/56642/creating-a-spring-boot-java-8-microservice-to-read.html
+- https://community.hortonworks.com/articles/56642/creating-a-spring-boot-java-8-microservice-to-read.html
 
 https://phoenix.apache.org/faq.html#I_want_to_get_started_Is_there_a_Phoenix_Hello_World
 
