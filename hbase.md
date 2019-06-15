@@ -310,4 +310,20 @@ connecting Phoenix using following commands on Hadoop node
 
 https://phoenix.apache.org/faq.html#I_want_to_get_started_Is_there_a_Phoenix_Hello_World
 
+### Hotspot
+
+- https://sematext.com/blog/hbasewd-avoid-regionserver-hotspotting-despite-writing-records-with-sequential-keys/
+- http://dwgeek.com/avoid-hbase-hotspotting.html/
+
+###
+
+- https://github.com/larsgeorge/hbase-book
+
+### HBase Apache Phonix Spring Boot POC
+
+- https://github.com/vaquarkhan/Apache-Kafka-poc-and-notes/wiki/HBase--Apache-Phonix-Spring-Boot--POC
+- https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.5.0/com.ibm.swg.im.mdmhs.pmebi.doc/topics/bestpractice_loadhbase.html
+
+
+
 
